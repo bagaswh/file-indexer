@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "mman.h": "c",
+        "stat.h": "c",
+        "stdio.h": "c",
+        "unistd.h": "c",
+        "stdint.h": "c",
+        "compare": "c"
+    }
+}
