@@ -5,6 +5,12 @@
         "stdio.h": "c",
         "unistd.h": "c",
         "stdint.h": "c",
-        "compare": "c"
+        "compare": "c",
+        "indexer.h": "c",
+        "cstdint": "c",
+        "slice.h": "c",
+        "stdarg.h": "c",
+        "random": "c",
+        "util.h": "c"
     }
 }
