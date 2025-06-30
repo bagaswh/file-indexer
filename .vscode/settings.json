@@ -11,6 +11,7 @@
         "slice.h": "c",
         "stdarg.h": "c",
         "random": "c",
-        "util.h": "c"
+        "util.h": "c",
+        "stdlib.h": "c"
     }
 }
